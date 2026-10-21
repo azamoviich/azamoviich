@@ -15,11 +15,11 @@ Full-stack engineer and founder of **TRACE**, a restaurant analytics and operati
 
 ## TRACE
 
-Multi-tenant SaaS for restaurants in Uzbekistan and the CIS, built solo: Node.js/Express and PostgreSQL backend, React web app, Expo mobile apps, a Tauri desktop app and a C# plugin for the iikoFront POS that streams live orders over WebSocket. Integrates with iiko, Poster and 1C. The source is private.
+Multi-tenant SaaS for restaurants in Uzbekistan and the CIS, built solo: Node.js/Express and PostgreSQL backend, React web app, Expo mobile apps, a Tauri desktop app and and a native C# POS plugin that streams live orders over WebSocket. It is POS-agnostic: one adapter layer connects iiko, Poster and 1C. The source is private.
 
 ## Stack
 
-TypeScript · JavaScript · Python · SQL · C# (plugin-level) · React · Next.js · React Native · Node.js · Express · FastAPI · PostgreSQL · Docker · Claude API · MCP
+TypeScript · JavaScript · Python · SQL · C# · React · Next.js · React Native · Node.js · Express · FastAPI · PostgreSQL · Docker · Claude API · MCP
 
 ## Certifications
 
