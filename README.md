@@ -19,7 +19,7 @@ Multi-tenant SaaS for restaurants in Uzbekistan and the CIS, built solo: Node.js
 
 ## Stack
 
-TypeScript · JavaScript · Python · SQL · C# · React · Next.js · React Native · Node.js · Express · FastAPI · PostgreSQL · Docker · Claude API · MCP
+TypeScript · JavaScript · Python · SQL · C# · React · Next.js · React Native · Node.js · Express · FastAPI · PostgreSQL · Docker · Kubernetes (GKE, kubectl) · Claude API · MCP
 
 ## Certifications
 
